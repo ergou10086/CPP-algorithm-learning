@@ -1,0 +1,12 @@
+"D:\Program Files\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\WorkSpace\C demo\C++算法学习使用\基础算法\贪心" -B "D:\WorkSpace\C demo\C++算法学习使用\基础算法\贪心\cmake-build-debug"
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "P1223 排队接水.cpp" is reserved or not valid for
+  certain CMake features, such as generator expressions, and may result in
+  undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
